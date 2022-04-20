@@ -38,3 +38,6 @@ rm -rf notears
 ```bash
 jupyter lab
 ```
+
+ - open Chess_Project.ipynb
+ - in the menu choose Kernel -> Change Kernel -> Select "causal_kernel"
