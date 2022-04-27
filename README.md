@@ -64,3 +64,6 @@ open
 http://127.0.0.1:8888/lab?token=SOME_HASH_VALUE
 ```
 in your browser.
+
+#### How to Submit
+
