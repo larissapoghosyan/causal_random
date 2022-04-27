@@ -65,5 +65,26 @@ http://127.0.0.1:8888/lab?token=SOME_HASH_VALUE
 ```
 in your browser.
 
-#### How to Submit
+#### How to Carry Out and Submit
+
+#### Step 1 (start working on the homework):
+
+```
+cd project_root
+git checkout homework
+mkdir firstName_lastName
+cp Student-Project-Exercise.ipynb firstName_lastName/
+```
+
+#### Step 2 (how to submit):
+
+```
+git add firstName_lastName/Student-Project-Exercise.ipynb
+git commit -m "whatever message"
+git push origin homework
+```
+
+#### PLEASE DO NOT MODIFY AND COMMIT `Student-Project-Exercise.ipynb` IN THE PROJECT_ROOT DIRECTORY
+
+
 
