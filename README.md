@@ -65,7 +65,7 @@ http://127.0.0.1:8888/lab?token=SOME_HASH_VALUE
 ```
 in your browser.
 
-#### How to Carry Out and Submit
+### How to Carry Out and Submit
 
 #### Step 1 (prepare to work on the homework):
 
