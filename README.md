@@ -67,7 +67,7 @@ in your browser.
 
 #### How to Carry Out and Submit
 
-#### Step 1 (start working on the homework):
+#### Step 1 (prepare to work on the homework):
 
 ```
 cd project_root
@@ -76,7 +76,12 @@ mkdir firstName_lastName
 cp Student-Project-Exercise.ipynb firstName_lastName/
 ```
 
-#### Step 2 (how to submit):
+#### Step 2 (working on the homework):
+
+1. Open the notebook in `firstName_lastName/Student-Project-Exercise.ipynb`
+2. You would need to modify data reading path
+
+#### Step 3 (submit your homework):
 
 ```
 git add firstName_lastName/Student-Project-Exercise.ipynb
