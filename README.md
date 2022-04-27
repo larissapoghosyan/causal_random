@@ -17,7 +17,7 @@ It will include :
 
 Install [Docker](https://docs.docker.com/get-docker/)
 
-For windows users it might include explicitly installing [this]()
+For windows users it might include explicitly installing [this](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
 
 ##### Step 2:
 
